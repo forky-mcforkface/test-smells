@@ -23,7 +23,7 @@
   "devDependencies": {
     "core-assert": "^0.2.0",
     "cross-env": "^5.0.5",
-    "standard": "^10.0.3",
+    "standard": "^17.0.0",
     "teenytest": "^5.0.0",
     "testdouble": "^3.2.6"
   },
